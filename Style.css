@@ -1,0 +1,236 @@
+body{
+    background-image:url(blue.jpg);
+    background-size: cover;
+    
+}
+header{
+    background-image: url(blue%20grid.jpg);
+    height: 100pt;
+    width: auto;
+    margin-top: 5pt;
+    background-size:contain;
+    border-bottom-left-radius: 50pt;
+    border-bottom-right-radius: 50pt;
+    border-top-left-radius: 50pt;
+    border-top-right-radius: 50pt;
+    
+    
+}
+h1{
+    color: cadetblue;
+    font-family: cursive;
+    font-style:normal;
+    font-size: 40pt;
+    text-align: center;
+    margin: 0;
+    padding-top: 20px;
+    
+    
+} 
+nav{
+   background-image:url(blue%20sky.jpg);
+    height: 80pt;
+    background-repeat: no-repeat;
+    width: auto;
+    background-size: cover;
+    border-bottom-left-radius: 50pt;
+    border-bottom-right-radius: 50pt;
+    border-top-left-radius: 50pt;
+    border-top-right-radius: 50pt;
+    margin-top: 1pt;
+    
+}
+p{ 
+padding: 15px;
+margin-left: 15px;
+color:darkcyan;   
+    
+
+
+
+
+
+}
+ul{
+    list-style: none;
+    color:blueviolet;
+    word-spacing: 150pt;
+    text-align: center;
+    
+    
+    
+    
+}
+a{
+    color: black;
+    
+    
+    
+}
+
+section{
+    height: 500pt;
+    background-color:floralwhite;
+    border-bottom-left-radius: 50pt;
+    border-bottom-right-radius: 50pt;
+    border-top-left-radius: 50pt;
+    border-top-right-radius: 50pt;
+    margin-top: 10pt;
+    
+}
+#leftsidebar{
+     border-bottom-right-radius: 50pt;
+     border-top-right-radius: 50pt;
+    background-image:repeating-linear-gradient(skyblue,violet);
+    height: 500pt;
+    width: 19%;
+    float: right
+    
+}
+#rightsidebar{
+     background-image:repeating-linear-gradient(violet,skyblue);
+    height: 500pt;
+    width: 19%;
+    float: left;
+     border-bottom-left-radius: 50pt;
+     border-top-left-radius: 50pt;
+    
+    
+}
+#section{
+    background-image:url(graphs.jpg);
+    height: 500pt;
+    width: 62%;
+    float: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+img{
+    height: 100pt;
+    border-bottom-left-radius: 50pt;
+    border-bottom-right-radius: 50pt;
+    border-top-left-radius: 50pt;
+    border-top-right-radius: 50pt;
+    padding-top: 5pt;
+    
+    
+}
+#otherimage{
+     height: 100pt;
+    border-bottom-left-radius: 50pt;
+    border-bottom-right-radius: 50pt;
+    border-top-left-radius: 50pt;
+    border-top-right-radius: 50pt;
+    float: right;
+    
+    
+}
+
+#dif{
+    text-align:end
+}
+footer{
+    
+    height: 120pt;
+    background-color: azure;
+    border-bottom-left-radius: 60pt;
+    border-bottom-right-radius: 60pt;
+    border-top-left-radius: 60pt;
+    border-top-right-radius: 60pt;
+    margin-top: 7pt;
+    opacity: 0.5;
+    color:papayawhip;
+    text-align: center;
+    transition: opacity 1s;
+    
+    
+}
+#footp{
+    color:black;
+}
+#lastp{
+    font-family: fantasy;
+    font-size: 20pt;
+    margin-top: 0.01pt;
+    
+    
+    
+}
+a:hover{
+    color:red;
+    
+    
+    
+    
+    
+    
+    
+}
+header:hover{
+    background-image:url(pattern.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+}
+   
+    
+
+nav:hover{
+    background-image:url(photo-1609789887552-fa440754d322.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+
+footer:hover{
+    opacity: 0.8;
+    
+    
+    
+}
+#section:hover{
+    background-image:url(gojo%20friends.jpg);
+     background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
